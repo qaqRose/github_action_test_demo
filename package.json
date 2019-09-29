@@ -1,5 +1,5 @@
 {
-  "name": "github-actions-demo",
+  "name": "github_action_test_demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
